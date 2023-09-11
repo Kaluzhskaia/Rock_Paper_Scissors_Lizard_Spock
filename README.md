@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Lizard-Spock Game
+# Rock-Paper-Scissors-Lizard-Spock 🪨📄✂️🦎🖖
 
 ## Description
 This is a web-based Rock-Paper-Scissors hotseat game with the additional options of Lizard and Spock, implemented using Python and Django.
